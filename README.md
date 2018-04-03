@@ -1,2 +1,2 @@
-# fetch-iframe-polyfill
-fetch-iframe-polyfill
+# fetch-formpost-polyfill
+fetch-formpost-polyfill
